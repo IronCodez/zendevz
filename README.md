@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm a 15 year old programmer! 👋
 
 Here are some ideas to get you started:
 
