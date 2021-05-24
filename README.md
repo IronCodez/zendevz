@@ -1,6 +1,8 @@
 ### Hi there, I'm a 15 year old programmer! 👋
 
-
+Languages:
+- Python
+- JavaScript
 
 
 Here are some ideas to get you started:
