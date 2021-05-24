@@ -1,6 +1,7 @@
 ### Hi there, I'm a 15 year old programmer! 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IronCodez&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IronCodez&layout=compact)
+
 ---
 Here are some ideas to get you started:
 
