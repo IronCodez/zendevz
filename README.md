@@ -1,4 +1,7 @@
-# 👋 Hi, I'm Zen.
+# :wave: Hi, I'm Zen.
+
+Currently, I do not have any projects I'm working on.
+Currently, I am learning rust. 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zendevz&layout=compact)
 
